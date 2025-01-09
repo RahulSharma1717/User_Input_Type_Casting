@@ -11,7 +11,7 @@ else:
     print("The triangle is not Right Angled")
 
 
-"""OutputEnter the base of triangle: 9
+"""Output: Enter the base of triangle: 9
 Enter the height of triangle: 12
 Enter the length of hypotenuse: 15
 The triangle is Right Angled"""
